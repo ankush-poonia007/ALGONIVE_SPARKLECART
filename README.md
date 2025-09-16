@@ -20,7 +20,7 @@ Here’s a look at the application's clean and modern interface, which is fully 
 
 | Main Shop Page                                                                                                              | Product Details Modal                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![SparkleCart - Main View](https://placehold.co/600x400/1e40af/ffffff?text=Main+Shop+Screenshot) | ![SparkleCart - Product Modal](https://placehold.co/600x400/1e40af/ffffff?text=Product+Modal+Screenshot) |
+| ![SparkleCart - Main View](assets/image1.png) | ![SparkleCart - Product Modal](assets/image2.png) |
 | *The main shop layout with a dedicated filter sidebar and product grid.* | *The detailed product view with a pop-up modal and add-to-cart functionality.* |
 
 ---
