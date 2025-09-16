@@ -98,4 +98,5 @@ To get a local copy up and running, follow these simple steps.
 **Ankush Poonia**
 
 * **GitHub:** [@ankush-poonia007](https://github.com/ankush-poonia007)
-* **LinkedIn:** [Ankush Poonia](https://www.linkedin.com/in/ankushpoonia007/)
+* **Instagram:** [@ankush_poonia07](https://instagram.com/ankush_poonia07)
+* **LinkedIn:** [Ankush Poonia](https://www.linkedin.com/in/ankushpoonia07/)
